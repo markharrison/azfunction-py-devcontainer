@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+__azurite_db_blob__.json
+__azurite_db_blob_extent__.json
+__azurite_db_queue__.json
+__azurite_db_queue_extent__.json
+__blobstorage__/fb7fd94a-693a-4f00-807a-7e5e853c542e
+__blobstorage__/b941446e-681e-49b2-a180-83b3a7270dbd
+
 # User-specific files
 *.rsuser
 *.suo
